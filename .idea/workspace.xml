@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641514cc-f611-4d97-b710-4c79af279465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Oopsinjava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CylinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datahiding1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadonlyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Constructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SCLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SCLoops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +39,17 @@
   "keyToString": {
     "Application.CylinderTest.executor": "Run",
     "Application.Datahiding1.executor": "Run",
+    "Application.Product.executor": "Run",
     "Application.ReadonlyExample.executor": "Run",
     "Application.Rectangle.executor": "Run",
+    "Application.SCLoops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Education/java prg/Oopsinjava/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Education/java prg/Oopsinjava/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
