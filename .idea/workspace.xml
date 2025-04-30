@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641514cc-f611-4d97-b710-4c79af279465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritence1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritence3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Paramconst.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Product.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -36,6 +41,9 @@
   "keyToString": {
     "Application.CylinderTest.executor": "Run",
     "Application.Datahiding1.executor": "Run",
+    "Application.Inheritence1.executor": "Run",
+    "Application.Inheritence3.executor": "Run",
+    "Application.Overriding.executor": "Run",
     "Application.Product.executor": "Run",
     "Application.ReadonlyExample.executor": "Run",
     "Application.Rectangle.executor": "Run",
@@ -59,6 +67,17 @@
       <updated>1745761260971</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
