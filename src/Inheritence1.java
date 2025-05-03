@@ -9,12 +9,12 @@ class Account
 
     public Account(String acc, String n, String add, String phno, String dob)
     {
-        accNo = acc;
-        name = n;
-        address = add;
+        this.accNo = acc;
+        this.name = n;
+        this.address = add;
         this.phno = phno;
         this.dob = dob;
-        balance = 0;
+        this.balance = 0;
     }
 
     public String getAccNo() { return accNo; }

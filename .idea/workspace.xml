@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641514cc-f611-4d97-b710-4c79af279465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritence3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Paramconst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calcoverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Super1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritence1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overriding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractClassExample.executor": "Run",
+    "Application.AbstractExample.executor": "Run",
+    "Application.Calcoverloading.executor": "Run",
     "Application.CylinderTest.executor": "Run",
     "Application.Datahiding1.executor": "Run",
     "Application.Inheritence1.executor": "Run",
@@ -48,6 +53,7 @@
     "Application.ReadonlyExample.executor": "Run",
     "Application.Rectangle.executor": "Run",
     "Application.SCLoops.executor": "Run",
+    "Application.Super1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",

@@ -16,7 +16,7 @@ class Sub extends Super
 public class Overriding {
     public static void main(String[]args)
     {
-        Super sup=new Sub();
+        Super sup=new Sub();//dynamic method dispatch
         sup.display();
 
     }
