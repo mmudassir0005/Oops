@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="641514cc-f611-4d97-b710-4c79af279465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calcoverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Super1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritence1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritence1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overriding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbstractChallenge.executor": "Run",
     "Application.AbstractClassExample.executor": "Run",
     "Application.AbstractExample.executor": "Run",
     "Application.Calcoverloading.executor": "Run",
@@ -48,6 +46,7 @@
     "Application.Datahiding1.executor": "Run",
     "Application.Inheritence1.executor": "Run",
     "Application.Inheritence3.executor": "Run",
+    "Application.Interface.executor": "Run",
     "Application.Overriding.executor": "Run",
     "Application.Product.executor": "Run",
     "Application.ReadonlyExample.executor": "Run",
@@ -60,7 +59,8 @@
     "onboarding.tips.debug.path": "C:/Education/java prg/Oopsinjava/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
